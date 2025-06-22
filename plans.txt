@@ -1,0 +1,4 @@
+Other setups i need to add
+- Logout Button
+- Feedback Page
+- AI improvements
