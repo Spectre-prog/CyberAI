@@ -2,3 +2,6 @@ Other setups i need to add
 - Logout Button
 - Feedback Page
 - AI improvements
+- User Profile
+- User Avatar
+- Name on AI page
